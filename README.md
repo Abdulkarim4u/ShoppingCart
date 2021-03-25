@@ -37,4 +37,7 @@ with a button "Keep Shopping" that takes the user back to the order screen (root
 
 # Complete Design of the Project
 
+![complete](https://user-images.githubusercontent.com/35825144/112426677-b4dfed00-8d7b-11eb-9b8f-eeb6cc4a07b7.png)
+
+
 
